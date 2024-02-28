@@ -1,5 +1,7 @@
 # gobpmnTypes
 
+A library of types used in gobpmn-repositories
+
 **Note**
 This repository is under construction
 
