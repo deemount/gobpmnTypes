@@ -1,4 +1,4 @@
-package gobpmntypes
+package gobpmn_types
 
 /*
  * @Pointers
