@@ -27,6 +27,7 @@ In addition, a repository with available applications has now been created. Exam
 + [gobpmnModels](https://github.com/deemount/gobpmnModels)
 + [gobpmnCamunda](https://github.com/deemount/gobpmnCamunda)
 + [gobpmnDiagram](https://github.com/deemount/gobpmnDiagram)
++ [gobpmnReader](https://github.com/deemount/gobpmnReader)
 + [gobpmnBuilder](https://github.com/deemount/gobpmnBuilder)
 + [gobpmnCounter](https://github.com/deemount/gobpmnCounter)
 + [gobpmnHash](https://github.com/deemount/gobpmnHash)
