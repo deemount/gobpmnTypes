@@ -24,12 +24,8 @@
 
 /*
 
-gobpmn is a experimental tool for reading and creating business process models.
-It is based on the BPMN 2.0 standard and it is designed to be used in the context
-of the Go programming language.
-
-The tool consists of a set of modules that can be used to create a business process model.
-The model can be exported to various formats, such as XML or JSON.
+gobpmnTypes is a experimental tool for types, interfaces and structs for BPMN 2.0.
+It is part of the gobpmn project and is meant to be used in conjunction with gobpmnModels.
 
 */
 
