@@ -1,12 +1,10 @@
 # gobpmnTypes
 
-A library of types used in gobpmn-repositories
-
-**Note** This repository is under construction
+A experimental library of types, interfaces and structs used in gobpmnModels
 
 ## Wiki
 
-The [documentation](https://github.com/deemount/gobpmnTypes/wiki) is now written in the wiki of the respective module
+Read the [documentation](https://github.com/deemount/gobpmnTypes/wiki)
 
 **Start here** [gobpmn](https://github.com/deemount/gobpmn)
 
@@ -32,3 +30,4 @@ In addition, a repository with available applications has now been created. Exam
 + [gobpmnCounter](https://github.com/deemount/gobpmnCounter)
 + [gobpmnHash](https://github.com/deemount/gobpmnHash)
 + [gobpmnReflection](https://github.com/deemount/gobpmnReflection)
++ [gobpmnEngine](https://github.com/deemount/gobpmnEngine)
